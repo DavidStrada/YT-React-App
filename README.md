@@ -1,4 +1,5 @@
 # This project demostrates a YouTube Small React App.
+> No Styles where added ( intentionally ).
 
 ## Available Scripts
 
